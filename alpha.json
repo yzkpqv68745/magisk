@@ -1,9 +1,9 @@
 {
   "app": {
-    "version": "7.2.0-074b1f8c6",
-    "versionCode": "219",
-    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@948474296c32b3b4ee51ff83815b70eaf24a1584/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@a4fe345f7bf554f0d1648f2222771643064aa58c/canary_builds/notes.md"
+    "version": "7.3.1-12bbc7fd6",
+    "versionCode": "223",
+    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@abc6ce79bcecf673101319aed9b21ccde247b445/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@c87a1ab120574fbd62f7bec1e63ea6c12adf059d/canary_builds/notes.md"
   },
   "magisk": {
     "version": "19.4-074b1f8c6",
