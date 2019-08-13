@@ -1,18 +1,18 @@
 {
   "app": {
-    "version": "7.3.3-a797d5d39",
-    "versionCode": "229",
-    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@3d06d5acc76a801e23c202392cdb64b18f8f3cae/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@9e96031195b3a22eb501fa9f38bfd99cce9f885e/canary_builds/notes.md"
+    "version": "7.3.3-84f0ff2fa",
+    "versionCode": "231",
+    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@d2da0c66a1e4f5429367c718df781987da1fcdb0/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@4dd3ad88e5847baf4e61ca422194eddbc538b390/canary_builds/notes.md"
   },
   "magisk": {
     "version": "19.4-f5c3ee3ae",
     "versionCode": "19307",
     "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@eb34026483f8c25c6bb8ea5bdd0e2a5e90229ec6/magisk-release.zip",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@9e96031195b3a22eb501fa9f38bfd99cce9f885e/canary_builds/notes.md",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@4dd3ad88e5847baf4e61ca422194eddbc538b390/canary_builds/notes.md",
     "md5": "3fcfb90da0dfaddddcf26427d19dc5cc"
   },
   "uninstaller": {
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@9e96031195b3a22eb501fa9f38bfd99cce9f885e/canary_builds/magisk-uninstaller.zip"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@4dd3ad88e5847baf4e61ca422194eddbc538b390/canary_builds/magisk-uninstaller.zip"
   }
 }
