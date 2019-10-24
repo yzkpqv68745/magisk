@@ -2,17 +2,21 @@
   "app": {
     "version": "7.3.5-0b8710817",
     "versionCode": "249",
-    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@6f2aaa46481d9774fe613c8b64d22071f4b9b1ef/app-release.apk",
+    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@4e50ee40996e5d4c095a8db0735fd741dfaa86e7/app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@8ffb86225381fd531b59a35ca3004090d4a8ce5f/notes.md"
   },
   "magisk": {
     "version": "20.1-0b8710817",
     "versionCode": "20003",
-    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@6f2aaa46481d9774fe613c8b64d22071f4b9b1ef/magisk-release.zip",
+    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@4e50ee40996e5d4c095a8db0735fd741dfaa86e7/magisk-release.zip",
     "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@8ffb86225381fd531b59a35ca3004090d4a8ce5f/notes.md",
     "md5": "0b5bd86d5d557bb403598acf04e2a982"
   },
   "uninstaller": {
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@8ffb86225381fd531b59a35ca3004090d4a8ce5f/magisk-uninstaller.zip"
+  },
+  "stub": {
+    "versionCode": "2",
+    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@4e50ee40996e5d4c095a8db0735fd741dfaa86e7/stub-release.apk"
   }
 }
