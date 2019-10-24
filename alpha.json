@@ -1,18 +1,18 @@
 {
   "app": {
-    "version": "7.3.5-7342fc230",
-    "versionCode": "246",
-    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@0c877c7148aa3387da636f42d1de253060c252e9/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@5ca00f6806cec673ca02f21c10451ec63b3eed20/notes.md"
+    "version": "7.3.5-0b8710817",
+    "versionCode": "249",
+    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@6f2aaa46481d9774fe613c8b64d22071f4b9b1ef/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@8ffb86225381fd531b59a35ca3004090d4a8ce5f/notes.md"
   },
   "magisk": {
-    "version": "20.1-7342fc230",
-    "versionCode": "20001",
-    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@0c877c7148aa3387da636f42d1de253060c252e9/magisk-release.zip",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@5ca00f6806cec673ca02f21c10451ec63b3eed20/notes.md",
-    "md5": "f5ca4bad715ddd202428879086b30ecf"
+    "version": "20.1-0b8710817",
+    "versionCode": "20003",
+    "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@6f2aaa46481d9774fe613c8b64d22071f4b9b1ef/magisk-release.zip",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@8ffb86225381fd531b59a35ca3004090d4a8ce5f/notes.md",
+    "md5": "0b5bd86d5d557bb403598acf04e2a982"
   },
   "uninstaller": {
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@5ca00f6806cec673ca02f21c10451ec63b3eed20/magisk-uninstaller.zip"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@8ffb86225381fd531b59a35ca3004090d4a8ce5f/magisk-uninstaller.zip"
   }
 }
