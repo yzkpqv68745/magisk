@@ -16,7 +16,7 @@
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@a5e66a6f7272a1ce572092dcc44d3697f4d0da46/magisk-uninstaller.zip"
   },
   "stub": {
-    "versionCode": "2",
+    "versionCode": "4",
     "link": "https://cdn.jsdelivr.net/gh/yzkpqv68745/magisk@2494f0502f2057fee2dd045ce3bedc8c0fa3a514/stub-release.apk"
   }
 }
